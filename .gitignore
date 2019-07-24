@@ -1,0 +1,7 @@
+*.pyc
+*.py~
+.gitignore~
+.idea/
+.env
+.env.save
+.idea
